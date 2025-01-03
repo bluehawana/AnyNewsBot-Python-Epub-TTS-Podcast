@@ -1,0 +1,2 @@
+output_directory: "./podcast_output"
+podcast_url: "http://localhost:8000/podcast" 
